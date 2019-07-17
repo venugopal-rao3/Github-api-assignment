@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Github-finder-app
 This application retrieves github user profile with latest repos and other information, for the input username
 
@@ -31,3 +32,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 * Hat tip to traversymedia
 
+=======
+# github-api-assignment
+>>>>>>> a79e3367e11df3aad5aa17b1a435a1c357a93e72
